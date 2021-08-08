@@ -1,1 +1,14 @@
-
+tacked Graphs
+small multiples
+Horizon graphs
+stem-and-leaf plot
+Q-Q plots
+Parallel coordinates
+Graduated Symbol Maps
+GDP
+Dorling cartogram
+phylogenetic trees
+Arc Diagrams
+seriation
+Squarified treemaps
+stem-and-leaf
