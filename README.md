@@ -1,6 +1,6 @@
-# infovis
-## TP's
+# Historial de Reproducción en Spotify
+## Trabaja Práctico
 
-2021 2Q
+Los datos fueron obtenidos desde Spotify, donde se obtiene información como playlists, consultas de búsqueda, seguidores e historial de streaming. Se busca obtener información como artistas y canciones más escuchados, variedad de generos, días y horarios de mayor reproducción.
 
-1. [hola mundo](https://belisario-olivera.github.io/infovis/index.html)
+
