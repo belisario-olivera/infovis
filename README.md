@@ -1,6 +1,7 @@
 # Historial de Reproducción en Spotify
-## Trabaja Práctico
+## Trabajo Práctico
 
-Los datos fueron obtenidos desde Spotify, donde se obtiene información como playlists, consultas de búsqueda, seguidores e historial de streaming. Se busca obtener información como artistas y canciones más escuchados, variedad de generos, días y horarios de reproducción.
+[Primer Borrador](https://docs.google.com/document/d/1Q88r3SkX1IiiruTAHgsB6OrA1J2S4Zx-sf4N6aXLbt0/edit)
+
 
 
